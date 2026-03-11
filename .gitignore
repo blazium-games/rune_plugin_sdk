@@ -1,3 +1,2 @@
-/examples/timer_plugin/build
-/examples/timer_plugin/dist/Debug
-/examples/timer_plugin/dist
+/examples/*/build
+/examples/*/dist
